@@ -1,21 +1,22 @@
 ### Hi, I'm Vicky 👋
 
-Product manager turned AI-native builder. 6 years shipping products at **Meituan** (AI Recruiting), **DiDi Global**, **NetEase Yanxuan**, and **Du Xiaoman Finance** — from 0→1 launches to growth strategy to innovation system design.
+**AI-native Product Builder.** 6 years shipping 0→1 products at **Meituan** (AI Recruiting), **DiDi Global**, **Du Xiaoman Finance**, and **NetEase Yanxuan** — from growth strategy to innovation-mechanism design. Now I build with code.
 
-Now I build things with code. I use **Claude Code** and AI tools daily to ship real products.
+I don't just write specs — I ship. Daily driver: **Claude Code** + AI agents.
 
-#### What I'm building
+#### 🚀 What I'm building
 
-- 🤚 **[chwazi](https://github.com/Vicky-v7/chwazi)** — WeChat mini-program for random person selection. Party game meets beautiful UI. Built end-to-end with Claude Code.
+- 🧘 **[naval-quotes](https://github.com/Vicky-v7/naval-quotes)** — *Wisdom New Tab*, a privacy-first Chrome new-tab extension serving curated wisdom from *The Almanack of Naval Ravikant*. Manifest V3, 100% local, zero tracking. Open source, shipping to the Chrome Web Store.
+- 🤚 **[chwazi](https://github.com/Vicky-v7/chwazi)** — WeChat mini-program for random person selection. Party game meets clean UI. Built end-to-end with Claude Code.
 - 🔗 **[qr-bridge](https://github.com/Vicky-v7/qr-bridge)** — QR decode → redirect trace → gate detection skill for AI coding agents. Published on ClawHub.
-- 🦞 **[OpenClaw contributor](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3AVicky-v7)** — Fixing Feishu channel streaming bugs, markdown sanitization, and reply formatting in the open-source AI assistant framework.
+- 🦞 **[OpenClaw contributor](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3AVicky-v7)** — Feishu channel fixes: streaming recovery, markdown sanitization, reply formatting in the open-source AI assistant framework.
 
-#### How I work
+#### 🛠️ How I work
 
 ```
-Discover pain point → Ship MVP fast → Iterate with real users → Open source what's useful
+Find the pain → Ship the MVP fast → Iterate with real users → Open-source what's useful
 ```
 
-I believe the best product people can build, not just spec. Currently looking for **product co-founder / founding PM** roles at early-stage startups where scope and ownership matter.
+The best product people can build, not just spec. **Currently looking for product co-founder / founding PM roles** at early-stage startups where scope and ownership matter.
 
-📍 Beijing &nbsp; · &nbsp; ✉️ [GitHub](https://github.com/Vicky-v7)
+📍 Beijing &nbsp;·&nbsp; ✉️ [njuvicky@gmail.com](mailto:njuvicky@gmail.com) &nbsp;·&nbsp; 🦞 Ship > Perfect
